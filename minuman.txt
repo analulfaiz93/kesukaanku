@@ -1,0 +1,4 @@
+minuman:
+- es teh
+- es susu
+- juz alpukat
